@@ -12,6 +12,8 @@ The thorough study of the Churn Problem address several common problems that Dat
 
 #Churn Solution
 
+First, a compnay must be able to identify which users are at risk of churning. The probability of churning. As well as the False Positives (non-churns predicted to churn) and the False Negatives (churns prediced to not churn). Typically, FNs are much more costly to a compnay than FTs -- this is taken into account. 
+
 This study of the Churn Problem ends with the creation of a Profit Curve. 
 
 A Profit Curve balances the trade off between the cost of reaching users that are at risk of churning and the profit of keeping users that are at risk of churning. 
