@@ -20,7 +20,7 @@ A Profit Curve balances the trade off between the cost of reaching users that ar
 
 ###Churn_Problem_Star_Cluster Notebook
 
-StarCluster is an open source cluster-computing toolkit for Amazon’s Elastic Compute Cloud (EC2) [http://star.mit.edu/cluster/] 
+[StarCluster] (http://star.mit.edu/cluster/) is an open source cluster-computing toolkit for Amazon’s Elastic Compute Cloud (EC2) 
 
 This data engineering technology is used for two reasons:
   - An efficent way to load data store on disk to RAM
