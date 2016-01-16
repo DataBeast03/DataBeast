@@ -18,4 +18,15 @@ This study of the Churn Problem ends with the creation of a Profit Curve.
 
 A Profit Curve balances the trade off between the cost of reaching users that are at risk of churning and the profit of keeping users that are at risk of churning. 
 
+###Churn_Problem_Star_Cluster Notebook
+
+StarCluster is an open source cluster-computing toolkit for Amazon’s Elastic Compute Cloud (EC2) [http://star.mit.edu/cluster/] 
+
+This data engineering technology is used for two reasons:
+  - An efficent way to load data store on disk to RAM
+  - To parallize the grid search processes in searching for optimized machine learning hyperparameters
+
+By parallizing the grid search, the time taken to search the parameter space for the optimum combination of parameters
+shortens from hours to minutes. 
+
 
