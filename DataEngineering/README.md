@@ -9,9 +9,9 @@ Errors at the serving and speed layers can be corrected, but corruption of the m
 
 ## Batch Layer 
 
-The master data set is structed into batch view. These batch views are in a relatively small, managable size that any query 
+The master data set is structed into batch views. These batch views are relatively small, managable sizes that any query 
 sent to one or more batch views will be served in a reasonable amount of time. Batch views are regenerated periodically. 
-How often batch views are regenerated will depend on the velocity and volume of the data being collecting. The batch layer 
+How often batch views are regenerated will depend on the velocity and volume of the data being collected. The batch layer 
 can be thought of as the backend of the pipeline
 
 ## Serving Layer
