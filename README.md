@@ -28,7 +28,5 @@ I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture
 ### Sentiment Analysis 
 Using Sklearn's machine learning library and NLTK's NLP library, I trained several models to identify user sentiment from IMDB movie reviews. After exploring models and text vectorizations, I created a machine learning ensemble using Logistic Regression, SVM, and Naive Bayes, and the text was vectorized into a bag-of-words representation. I am currently experimenting on how to improve on this work by using Word2Vec and Doc2Vec neural networks. 
 
------
-
 ## Contact
 Please feel free to contact me about my work or any exciting opportunities. My email is alexanderbarriga03@gmail.com
