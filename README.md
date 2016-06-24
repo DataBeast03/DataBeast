@@ -16,7 +16,8 @@ I engineered a feature extract pipeline for satellite images: images go in, data
 ## Projects
 
 ### Deep Learning 
-![](http://www.itm.uni-stuttgart.de/research/pso_opt/bilder/pso.gif)
+![Particle Swarm Optimization](http://www.itm.uni-stuttgart.de/research/pso_opt/bilder/pso.gif)
+
 I designed and coded deep learning networks using the Theano neural-network library in Python. I've used deep learning to build image classifiers, predict the value of stocks into the future, and to better understand how convex and non-convex optimization algorithms work, including gradient descent and particle swarm. 
 
 ### Big Data Engineering
