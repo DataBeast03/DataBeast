@@ -30,7 +30,7 @@ The following projects, and more, can be found in this repo.
 
 I designed and coded deep learning networks using the Theano neural-network library in Python. I've used deep learning to build image classifiers, predict the value of stocks into the future, and to better understand how convex and non-convex optimization algorithms work, including gradient descent and particle swarm. 
 
-### Big Data Engineering
+### [Big Data Engineering](https://github.com/AlexanderPhysics/DataBeast/blob/master/DataEngineering/Batch_and_Serving_Layers.ipynb)
 ![](https://s3-us-west-2.amazonaws.com/dsci6007/assets/fig2-1.png)
 
 I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture to engineer an ETL pipeline. This pipeline accepts unstructured data, then Kafka feeds identical copies of the data into a batch and speed layer. This ensure that the user can have real-time, up-to-the second data for their SQL queries. This project brought together so many different big data technologies and gave me a valuable understanding of how to design a robust data infrastructure. 
