@@ -23,6 +23,7 @@ I engineered a feature extract pipeline for satellite images: images go in, data
 
 
 ## Projects
+The following projects, and more, can be found in this repo. 
 
 ### Deep Learning 
 ![Particle Swarm Optimization](http://www.itm.uni-stuttgart.de/research/pso_opt/bilder/pso.gif)
