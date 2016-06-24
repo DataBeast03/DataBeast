@@ -16,7 +16,8 @@ I engineered a feature extract pipeline for satellite images: images go in, data
 ## Projects
 
 ### Deep Learning 
-I designed and coded deep learning networks using the Theano neural-network library in Python. I've used deep learning to build image classifiers, predict the value of stocks into the future, and to better understand how convex and non-convex optimization algorithms work, including gradient descent and particle scatter. 
+![](http://www.itm.uni-stuttgart.de/research/pso_opt/bilder/pso.gif)
+I designed and coded deep learning networks using the Theano neural-network library in Python. I've used deep learning to build image classifiers, predict the value of stocks into the future, and to better understand how convex and non-convex optimization algorithms work, including gradient descent and particle swarm. 
 
 ### Big Data Engineering
 ![](https://s3-us-west-2.amazonaws.com/dsci6007/assets/fig2-1.png)
