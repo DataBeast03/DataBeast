@@ -6,17 +6,18 @@ My name is Alexander. I am a Data Scientist based on out Berkeley, CA. My indust
 
 ![](https://img.grouponcdn.com/coupons/mK4w3Pv4cen2UWmZ8bH76/wine_comHIRES-500x500/v1/t200x200.png)
 
+[Wine project can be found here](https://github.com/AlexanderPhysics/Wine_Recommender/blob/master/scripts/Spark_Recommender_Prototype.ipynb)
 I built a scalable, automated wine recommendation system using Spark. The recommender provides users with personalized wines, presented by varietals. This project brought together a range of skills and technologies, include Exploratory Data Analysis, machine learning, and distributed computing. My favorite part of this project was overcoming the challenge of sparse ratings. Only 2.5% of Wine.com's users rate wines, so I feature engineered the purchase data to reflect user sentiment by creating a novel transformation that behaves like a statistical Z-score.  
 
-[Wine project can be found here](https://github.com/AlexanderPhysics/Wine_Recommender/blob/master/scripts/Spark_Recommender_Prototype.ipynb)
 
 
 
 ![](http://www.cleantechinstitute.org/Images/NASA%20Ames-Cleantech%20Institute.jpg)
 
+[NASA project can be found here](https://github.com/AlexanderPhysics/NASA/blob/master/image_scripts/Display_Notebook.ipynb)
 I engineered a feature extract pipeline for satellite images: images go in, data tables come out. These images had valuable information about sunspots, including their changing positions over time and magnetic properties. The project leveraged Skimage for object detection and NASA's Pleaides supercomputer for cloud cluster computing. This data will empower Heliophysicist to design more sophisticated models of the solar cycle. The solar cycle has a direct impact on the health and stability of satellites as well as Earth's climate. 
 
-[NASA project can be found here](https://github.com/AlexanderPhysics/NASA/blob/master/image_scripts/Display_Notebook.ipynb)
+
 
 
 ## Projects
