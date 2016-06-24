@@ -1,5 +1,5 @@
 ## Welcome
-My name is Alexander. I am a Data Scientist based on out Berkeley, CA. My industry experience includes Wine.com and NASA Ames Research Center. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. This page briefly explores some of the projects that I store in the DataBeast repo. 
+My name is Alexander. I am a Data Scientist based on out Berkeley, CA. My industry experience includes Wine.com and NASA Ames Research Center. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. This page briefly explores some of the projects that I store in the DataBeast, WineRecommender, and NASA repos. 
 
 
 ## Industry 
@@ -8,9 +8,15 @@ My name is Alexander. I am a Data Scientist based on out Berkeley, CA. My indust
 
 I built a scalable, automated wine recommendation system using Spark. The recommender provides users with personalized wines, presented by varietals. This project brought together a range of skills and technologies, include Exploratory Data Analysis, machine learning, and distributed computing. My favorite part of this project was overcoming the challenge of sparse ratings. Only 2.5% of Wine.com's users rate wines, so I feature engineered the purchase data to reflect user sentiment by creating a novel transformation that behaves like a statistical Z-score.  
 
+!(Wine project can be found here)[https://github.com/AlexanderPhysics/Wine_Recommender/blob/master/scripts/Spark_Recommender_Prototype.ipynb]
+
+
+
 ![](http://www.cleantechinstitute.org/Images/NASA%20Ames-Cleantech%20Institute.jpg)
 
 I engineered a feature extract pipeline for satellite images: images go in, data tables come out. These images had valuable information about sunspots, including their changing positions over time and magnetic properties. The project leveraged Skimage for object detection and NASA's Pleaides supercomputer for cloud cluster computing. This data will empower Heliophysicist to design more sophisticated models of the solar cycle. The solar cycle has a direct impact on the health and stability of satellites as well as Earth's climate. 
+
+![NASA project can be found here](https://github.com/AlexanderPhysics/NASA/blob/master/image_scripts/Display_Notebook.ipynb)
 
 
 ## Projects
