@@ -36,7 +36,7 @@ Using Sklearn's machine learning library and NLTK's NLP library, I trained sever
 
 
 ### Twitter Web Scraper
-For this project, I build a web scraper for Twitter data and scrape all the tweets that Galvanize has ever sent out to its followers. The unstructured data is stored in a local MongoDB database. The data is then inspected, cleaned, and structured for analysis.
+For this project, I build a [web scraper for Twitter data](https://github.com/AlexanderPhysics/DataBeast/blob/master/Twitter_Project/Twitter_Scrape_and_Analyze.ipynb) and scrape all the tweets that Galvanize has ever sent out to its followers. The unstructured data is stored in a local MongoDB database. The data is then inspected, cleaned, and structured for analysis.
 
 ![](http://www.computerworld.dk/fil/143802/540?scale_up)
 
