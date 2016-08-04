@@ -40,6 +40,9 @@ For this project, I build a [web scraper for Twitter data](https://github.com/Al
 
 ![](http://www.computerworld.dk/fil/143802/540?scale_up)
 
+### Customer Churn
+I explore the metrics of accuracy, precision, and recall in rich detail in order to understand how unbalanced classes affect machine learing prediction of customer churn. I explore 3 ways of balancing classes, discussing the pros and cons of each appraoch. I then use the best performing model's predictive probabilities to [identify customers that are most at risk for churn](https://github.com/AlexanderPhysics/DataBeast/blob/master/Business/Churn_Problem.ipynb). Finally, I design an experiment that maximizes profits and minimizes cost for a marketing campiagn of reducing churn. 
+
 
 ## Contact
 Please feel free to contact me about my work or any exciting opportunities. My email is alexanderbarriga03@gmail.com
