@@ -43,7 +43,7 @@ For this project, I build a [web scraper for Twitter data](https://github.com/Al
 ### Customer Churn
 ![](http://blog.clientheartbeat.com/wp-content/uploads/2013/09/customer-churn.jpg)
 
-I explore the metrics of accuracy, precision, and recall in rich detail in order to understand how unbalanced classes affect machine learing prediction of customer churn. I explore 3 ways of balancing classes, discussing the pros and cons of each appraoch. I then use the best performing model's predictive probabilities to [identify customers that are most at risk for churn](https://github.com/AlexanderPhysics/DataBeast/blob/master/Business/Churn_Problem.ipynb). Finally, I design an experiment that maximizes profits and minimizes cost for a marketing campiagn of reducing churn. 
+I explore the metrics of accuracy, precision, and recall in rich detail in order to understand how unbalanced classes affect machine learning prediction of customer churn. I explore 3 ways of balancing classes, discussing the pros and cons of each appraoch. I then use the best performing model's predictive probabilities to [identify customers that are most at risk for churn](https://github.com/AlexanderPhysics/DataBeast/blob/master/Business/Churn_Problem.ipynb). Finally, I design an experiment that maximizes profits and minimizes cost for a marketing campiagn of reducing churn. 
 
 
 ## Contact
