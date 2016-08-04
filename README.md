@@ -34,5 +34,12 @@ I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture
 ### Sentiment Analysis 
 Using Sklearn's machine learning library and NLTK's NLP library, I trained several models to classify and predict [user sentiment](https://github.com/AlexanderPhysics/DataBeast/blob/master/NaturalLanguageProcessing_NLP/Sentiment_Analysis_Feature_Engineering.ipynb) on IMDB movie reviews. After exploring models and text vectorizations, I created a machine learning ensemble using Logistic Regression, SVM, and Naive Bayes, and vectorized the text into a bag-of-words representation. I then experimented on how to improve on this work by using Word2Vec neural network. 
 
+
+### Twitter Web Scraper
+For this project, I build a [web scraper for Twitter data](https://github.com/AlexanderPhysics/DataBeast/blob/master/Twitter_Project/Twitter_Scrape_and_Analyze.ipynb) and scrape all the tweets that Galvanize has ever sent out to its followers. The unstructured data is stored in a local MongoDB database. The data is then inspected, cleaned, and structured for analysis.
+
+![](http://www.computerworld.dk/fil/143802/540?scale_up)
+
+
 ## Contact
 Please feel free to contact me about my work or any exciting opportunities. My email is alexanderbarriga03@gmail.com
