@@ -32,13 +32,20 @@ I designed and coded deep learning networks using the Theano neural-network libr
 I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture to engineer an [ETL pipeline](https://github.com/AlexanderPhysics/DataBeast/blob/master/DataEngineering/Batch_and_Serving_Layers.ipynb). This pipeline accepts unstructured data, then Kafka feeds identical copies of the data into a batch and speed layer. This ensure that the user can have real-time, up-to-the second data for their SQL queries. This project brought together so many different big data technologies and gave me a valuable understanding of how to design a robust data infrastructure. 
 
 ### Sentiment Analysis 
+![](http://www.clarabridge.com/wp-content/uploads/2014/04/Sentiment.jpg)
+
 Using Sklearn's machine learning library and NLTK's NLP library, I trained several models to classify and predict [user sentiment](https://github.com/AlexanderPhysics/DataBeast/blob/master/NaturalLanguageProcessing_NLP/Sentiment_Analysis_Feature_Engineering.ipynb) on IMDB movie reviews. After exploring models and text vectorizations, I created a machine learning ensemble using Logistic Regression, SVM, and Naive Bayes, and vectorized the text into a bag-of-words representation. I then experimented on how to improve on this work by using Word2Vec neural network. 
 
 
 ### Twitter Web Scraper
+![](http://www.computerworld.dk/fil/143802/540?scale_up)
+
 For this project, I build a [web scraper for Twitter data](https://github.com/AlexanderPhysics/DataBeast/blob/master/Twitter_Project/Twitter_Scrape_and_Analyze.ipynb) and scrape all the tweets that Galvanize has ever sent out to its followers. The unstructured data is stored in a local MongoDB database. The data is then inspected, cleaned, and structured for analysis.
 
-![](http://www.computerworld.dk/fil/143802/540?scale_up)
+### Customer Churn
+![](http://blog.clientheartbeat.com/wp-content/uploads/2013/09/customer-churn.jpg)
+
+I explore the metrics of accuracy, precision, and recall in rich detail in order to understand how unbalanced classes affect machine learning prediction of customer churn. I explore 3 ways of balancing classes, discussing the pros and cons of each appraoch. I then use the best performing model's predictive probabilities to [identify customers that are most at risk for churn](https://github.com/AlexanderPhysics/DataBeast/blob/master/Business/Churn_Problem.ipynb). Finally, I design an experiment that maximizes profits and minimizes cost for a marketing campiagn of reducing churn. 
 
 
 ## Contact
