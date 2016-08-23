@@ -31,6 +31,12 @@ I designed and coded deep learning networks using the Theano neural-network libr
 
 I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture to engineer an [ETL pipeline](https://github.com/AlexanderPhysics/DataBeast/blob/master/DataEngineering/Batch_and_Serving_Layers.ipynb). This pipeline accepts unstructured data, then Kafka feeds identical copies of the data into a batch and speed layer. This ensure that the user can have real-time, up-to-the second data for their SQL queries. This project brought together so many different big data technologies and gave me a valuable understanding of how to design a robust data infrastructure. 
 
+### Predicting Daily Activities (IoT)
+![](http://www.lucas-blake.com/uploads/1250/internet-of-things-landscape__large.jpg)
+
+The goal of this notebook is to train a classifer to predict which activities users are engaging in based on sensor data collected from devices attached to all four limbs and the torso. This will be acomplished by feature engineering the sensor data and training machine learning classifers, SVM and a Deep Learning Classifer. 
+
+
 ### Sentiment Analysis 
 ![](http://www.clarabridge.com/wp-content/uploads/2014/04/Sentiment.jpg)
 
