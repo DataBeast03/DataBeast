@@ -34,7 +34,7 @@ I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture
 ### Predicting Daily Activities (IoT)
 ![](http://www.lucas-blake.com/uploads/1250/internet-of-things-landscape__large.jpg)
 
-The goal of this notebook is to train a classifer to predict which activities users are engaging in based on sensor data collected from devices attached to all four limbs and the torso. This will be acomplished by feature engineering the sensor data and training machine learning classifers, SVM and a Deep Learning Classifer. 
+The goal of [this notebook](https://github.com/DataBeast03/DataBeast/blob/master/MachineLearning/Predicting_Daily_Activities_IoT.ipynb) is to train a classifer to predict which activities users are engaging in based on sensor data collected from devices attached to all four limbs and the torso. This will be acomplished by feature engineering the sensor data and training machine learning classifers, SVM and a Deep Learning Classifer. 
 
 
 ### Sentiment Analysis 
