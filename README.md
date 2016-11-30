@@ -28,7 +28,7 @@ The following projects, and more, can be found in this repo.
 ### Entity Search Engine
 <img src="http://www.listchallenges.com/f/lists/d7aacdae-74bd-42ff-b397-b73905b5867b.jpg" width="400"><img src="https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png" width="400">
 
-I engineered a [data product](https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/NYT_Articles_2016_EDA_Presentation_Version.ipynb) that allows the user to search for unassuming relationships bewteen entities in New York Times articles. I used Sklearn's implementation of Latent Dirichlet Allocation for Topic Modeling and the NLTK library for Entity Recognition. This data product is an excellent example of how Machine Learning and Natural Language Processing can be used to build an application to serve the needs of an end user. 
+I engineered a [data product](https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/NYT_Articles_2016_EDA_Presentation_Version.ipynb) that allows the user to search for unassuming relationships bewteen entities in New York Times articles. The articles were scraped from the NYT api. I used Sklearn's implementation of Latent Dirichlet Allocation for Topic Modeling and the NLTK library for Entity Recognition. This data product is an excellent example of how Machine Learning and Natural Language Processing can be used to build an application to serve the needs of an end user. 
 
 I wrote three object oriented classes for this project:
 
@@ -41,7 +41,7 @@ has methods to identify and extract named entities, the like that we observed in
 **entity_topic_occurances**
 has methods to identify co-occurances of entities within the same topic and within the same document. 
 
-I am currently working on finishing this project. 
+I am currently working on this project. This project is not finished. 
 
 
 
