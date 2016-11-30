@@ -26,7 +26,9 @@ The following projects, and more, can be found in this repo.
 
 
 ### Entity Search Engine
-![](https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png width="20")
+
+
+<img src="https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png" width="48">
 
 
 
