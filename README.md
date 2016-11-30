@@ -27,6 +27,7 @@ The following projects, and more, can be found in this repo.
 
 ### Entity Search Engine
 
+![](https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/pyLDAvis_viz.html)
 
 
 
