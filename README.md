@@ -28,7 +28,7 @@ The following projects, and more, can be found in this repo.
 ### Entity Search Engine
 
 
-<img src="http://www.listchallenges.com/f/lists/d7aacdae-74bd-42ff-b397-b73905b5867b.jpg" width="500"><img src="https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png" width="500">
+<img src="http://www.listchallenges.com/f/lists/d7aacdae-74bd-42ff-b397-b73905b5867b.jpg" width="450"><img src="https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png" width="450">
 
 
 
