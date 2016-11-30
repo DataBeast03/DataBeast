@@ -27,7 +27,8 @@ The following projects, and more, can be found in this repo.
 
 ### Entity Search Engine
 
-{% include {{ filename |https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/pyLDAvis_viz.html}} %}
+{{< importPartial https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/pyLDAvis_viz.html >}}
+
 
 
 ### Deep Learning 
