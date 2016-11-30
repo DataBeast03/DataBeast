@@ -24,6 +24,14 @@ I engineered a [feature extract pipeline](https://github.com/AlexanderPhysics/NA
 ## Projects
 The following projects, and more, can be found in this repo. 
 
+
+### Entity Search Engine
+
+![](file:///Users/Alexander/DataBeast/NYT_Articles/pyLDAvis_viz.html#topic=3&lambda=1&term=)
+
+
+
+
 ### Deep Learning 
 ![Particle Swarm Optimization](http://www.itm.uni-stuttgart.de/research/pso_opt/bilder/pso.gif)
 
