@@ -26,9 +26,22 @@ The following projects, and more, can be found in this repo.
 
 
 ### Entity Search Engine
-
-
 <img src="http://www.listchallenges.com/f/lists/d7aacdae-74bd-42ff-b397-b73905b5867b.jpg" width="400"><img src="https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png" width="400">
+
+I engineered a [data product](https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/NYT_Articles_2016_EDA_Presentation_Version.ipynb) that allows the user to search for unassuming relationships bewteen entities in New York Times articles. I used Sklearn's implementation of Latent Dirichlet Allocation for Topic Modeling and the NLTK library for Entity Recognition. This data product is an excellent example of how Machine Learning and Natural Language Processing can be used to build an application to serve the needs of an end user. 
+
+I wrote three object oriented classes for this project:
+
+**topic_model_distributions** 
+has methods to fit Latent Dirichlet Allocation (LDA) for topic modeling and methods to get certain distributions that are necessary to visualize the LDA results using the pyLDAvis data viz tool
+
+**named_entity_extraction**
+has methods to identify and extract named entities, the like that we observed in the police shooting article. It also has methods that count the number of entity appearances in each topic and the number of entity apperances in each article.
+
+**entity_topic_occurances**
+has methods to identify co-occurances of entities within the same topic and within the same document. 
+
+I am currently working on finishing this project. 
 
 
 
