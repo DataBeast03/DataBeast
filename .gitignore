@@ -7,6 +7,9 @@ WineRecommender/data/*.txt
 *.o
 *.obj
 *.txt
+*.tsv
+*.pkl
+
 # Precompiled Headers
 *.gch
 *.pch
