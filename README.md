@@ -7,7 +7,7 @@ My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My indust
 ### Recommendation System
 ![](https://img.grouponcdn.com/coupons/mK4w3Pv4cen2UWmZ8bH76/wine_comHIRES-500x500/v1/t200x200.png)
 
-For my master's theis, I built an automated [wine recommendation system](https://github.com/AlexanderPhysics/Wine_Recommender/blob/master/scripts/Spark_Recommender_Prototype.ipynb) using Spark. The recommender provides users with personalized wines, presented by varietals. This project brought together a range of skills and technologies, include Exploratory Data Analysis, machine learning, and distributed computing. My favorite part of this project was overcoming the challenge of sparse ratings. Only 2.5% of Wine.com's users rate wines, so I feature engineered the purchase data to reflect user sentiment by creating a novel transformation that behaves like a statistical Z-score. 
+For my master's thesis, I built an automated [wine recommendation system](https://github.com/AlexanderPhysics/Wine_Recommender/blob/master/scripts/Spark_Recommender_Prototype.ipynb) using Spark. The recommender provides users with personalized wines, presented by varietals. This project brought together a range of skills and technologies, include Exploratory Data Analysis, machine learning, and distributed computing. My favorite part of this project was overcoming the challenge of sparse ratings. Only 2.5% of Wine.com's users rate wines, so I feature engineered the purchase data to reflect user sentiment by creating a novel transformation that behaves like a statistical Z-score. 
 
 I wrote an [article](https://github.com/DataBeast03/Wine_Recommender/blob/master/Capstone_Paper_Alexander.pdf) that explains my methodology, experimentation, and results for this project. 
 
