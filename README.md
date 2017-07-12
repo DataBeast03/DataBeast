@@ -78,7 +78,7 @@ Using Sklearn's machine learning library and NLTK's NLP library, I trained sever
 For this project, I build a [web scraper for Twitter data](https://github.com/AlexanderPhysics/DataBeast/blob/master/Twitter_Project/Twitter_Scrape_and_Analyze.ipynb) and scrape all the tweets that Galvanize has ever sent out to its followers. The unstructured data is stored in a local MongoDB database. The data is then inspected, cleaned, and structured for analysis.
 
 ### Customer Churn
-![](http://blog.clientheartbeat.com/wp-content/uploads/2013/09/customer-churn.jpg)
+![](https://github.com/DataBeast03/DataBeast/blob/master/Business/Case-Study-Churn.ipynb)
 
 I explore the metrics of accuracy, precision, and recall in rich detail in order to understand how unbalanced classes affect machine learning prediction of customer churn. I explore 3 ways of balancing classes, discussing the pros and cons of each appraoch. I then use the best performing model's predictive probabilities to [identify customers that are most at risk for churn](https://github.com/AlexanderPhysics/DataBeast/blob/master/Business/Churn_Problem.ipynb). Finally, I design an experiment that maximizes profits and minimizes cost for a marketing campiagn of reducing churn. 
 
