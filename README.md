@@ -1,6 +1,8 @@
 ## Welcome
 My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My industry experience includes Wine.com and NASA Ames Research Center. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. This page briefly explores some of the projects that I store in the DataBeast, WineRecommender, and NASA repos. 
 
+I currently work as a Data Science Instructor for General Assembly. Where I am partnering with local startups and leading data science projects with students to deliver deep learning solutions for anomaly detection and time series forecasting. 
+
 
 ## Industry 
 
@@ -61,7 +63,7 @@ I've used Spark, SparkSQL, SparkStreaming, Kafka, HBase, and Lambda Architecture
 ### Predicting Daily Activities (IoT)
 ![](http://www.lucas-blake.com/uploads/1250/internet-of-things-landscape__large.jpg)
 
-The goal of [this notebook](https://github.com/DataBeast03/DataBeast/blob/master/MachineLearning/Predicting_Daily_Activities_IoT.ipynb) is to train a classifier to predict which activities users are engaging in based on sensor data collected from devices attached to all four limbs and the torso. This will be accomplished by feature engineering the sensor data and training machine learning classifiers, SVM and a Deep Learning Network. 
+The goal of [this notebook](https://github.com/DataBeast03/DataBeast/blob/master/MachineLearning/Data_Scienec_Case_Study_IoT.ipynb) is to train a classifier to predict which activities users are engaging in based on sensor data collected from devices attached to all four limbs and the torso. This will be accomplished by feature engineering the sensor data and training machine learning classifiers, SVM and a Deep Learning Network. 
 
 
 ### Sentiment Analysis 
