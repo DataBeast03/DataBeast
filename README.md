@@ -1,30 +1,8 @@
 ## Welcome
-My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My industry experience includes Wine.com and NASA Ames Research Center. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. This page briefly explores some of the projects that I store in the DataBeast, WineRecommender, and NASA repos. 
+My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My industry experience includes Wine.com and NASA Ames Research Center, teaching Data Science at General Assembly, and consulting. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. 
 
-I currently work as a Data Science Instructor for General Assembly. Where I am partnering with local startups and leading data science projects with students to deliver deep learning solutions for anomaly detection and time series forecasting. 
+I currently work as a Data Science Constultant buildid deep learning models for a client's main product in which users buy discounted event tickets in a 2nd hand market. 
 
-
-## Industry 
-
-### Recommendation System
-![](https://img.grouponcdn.com/coupons/mK4w3Pv4cen2UWmZ8bH76/wine_comHIRES-500x500/v1/t200x200.png)
-
-For my master's thesis, I built an automated [wine recommendation system](https://github.com/AlexanderPhysics/Wine_Recommender/blob/master/scripts/Spark_Recommender_Prototype.ipynb) using Spark. The recommender provides users with personalized wines, presented by varietals. This project brought together a range of skills and technologies, include Exploratory Data Analysis, machine learning, and distributed computing. My favorite part of this project was overcoming the challenge of sparse ratings. Only 2.5% of Wine.com's users rate wines, so I feature engineered the purchase data to reflect user sentiment by creating a novel transformation that behaves like a statistical Z-score. 
-
-I wrote an [article](https://github.com/DataBeast03/Wine_Recommender/blob/master/Capstone_Paper_Alexander.pdf) that explains my methodology, experimentation, and results for this project. 
-
-
-
-### Image Feature Extraction
-![](http://www.cleantechinstitute.org/Images/NASA%20Ames-Cleantech%20Institute.jpg)
-
-I engineered a [feature extract pipeline](https://github.com/AlexanderPhysics/NASA/blob/master/image_scripts/Display_Notebook.ipynb) for satellite images: images go in, data tables come out. These images had valuable information about sunspots, including their changing positions over time and magnetic properties. The project leveraged Skimage for object detection and NASA's Pleaides supercomputer for cloud cluster computing. This data will empower Heliophysicist to design more sophisticated models of the solar cycle. The solar cycle has a direct impact on the health and stability of satellites as well as Earth's climate. 
-
-
-
-
-## Projects
-The following projects, and more, can be found in this repo. 
 
 
 ### Entity Search Engine
@@ -42,8 +20,6 @@ has methods to identify and extract named entities, the like that we observed in
 
 **entity_topic_occurances**
 has methods to identify co-occurances of entities within the same topic and within the same document. 
-
-I am currently working on this project. This project is not finished. 
 
 
 
