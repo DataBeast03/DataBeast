@@ -4,9 +4,8 @@ My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My indust
 I currently work as a Data Science Constultant building deep learning models for a client's main product in which users buy discounted event tickets in a 2nd hand market. 
 
 
------
+## Projects 
 
-### Projects 
 
 ### Classify Physical Activities with CNN Deep Learning Models 
 <img src="https://github.com/DataBeast03/DataBeast/blob/master/DeepLearning/CNN_Activity_Classification/sport_watch_logos.png" width="400"><img src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/04/CNN-example-block-diagram-1024x340.jpg" width="400">
