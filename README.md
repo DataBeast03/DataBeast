@@ -4,6 +4,18 @@ My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My indust
 I currently work as a Data Science Constultant buildid deep learning models for a client's main product in which users buy discounted event tickets in a 2nd hand market. 
 
 
+-----
+
+# Projects 
+
+### Classify Physical Activities with CNN Deep Learning Models 
+<img src="https://github.com/DataBeast03/DataBeast/blob/master/DeepLearning/CNN_Activity_Classification/sport_watch_logos.png" width="400">
+
+Based on the research of the authors of this [whitepaper](https://arxiv.org/pdf/1610.07031.pdf), I trained a Convolutional Neural Network to classify the physical activities of users wearing wrist devices that contain sensors like an accelerometer and gyroscope. In order words, the CNN was trained on time-series data and not images and performed quite well. Check out the code in this [Jupyter Notebook](https://github.com/DataBeast03/DataBeast/blob/master/DeepLearning/CNN_Activity_Classification/CNN_Activity_Classification.ipynb). 
+
+
+
+
 
 ### Entity Search Engine
 <img src="http://www.listchallenges.com/f/lists/d7aacdae-74bd-42ff-b397-b73905b5867b.jpg" width="400"><img src="https://github.com/DataBeast03/DataBeast/blob/master/NYT_Articles/ScreenShot_dataViz.png" width="400">
