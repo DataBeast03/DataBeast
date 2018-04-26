@@ -1,4 +1,4 @@
-## Welcome
+### Welcome
 My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My industry experience includes Wine.com, NASA Ames Research Center, teaching Data Science at General Assembly, and consulting. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. 
 
 I currently work as a Data Science Constultant building deep learning models for a client's main product in which users buy discounted event tickets in a 2nd hand market. 
@@ -6,7 +6,7 @@ I currently work as a Data Science Constultant building deep learning models for
 
 -----
 
-# Projects 
+### Projects 
 
 ### Classify Physical Activities with CNN Deep Learning Models 
 <img src="https://github.com/DataBeast03/DataBeast/blob/master/DeepLearning/CNN_Activity_Classification/sport_watch_logos.png" width="400"><img src="http://adventuresinmachinelearning.com/wp-content/uploads/2017/04/CNN-example-block-diagram-1024x340.jpg" width="400">
