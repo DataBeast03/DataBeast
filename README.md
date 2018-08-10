@@ -1,8 +1,7 @@
 ### Welcome
 My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My industry experience includes Wine.com, NASA Ames Research Center, teaching Data Science at General Assembly, and consulting. What excites me most about Data Science is leveraging machine learning and big data tech to build deployable, data-driven products that bring tangible value to people's lives. 
 
-I currently work as a Data Science Constultant building deep learning models for a client's main product in which users buy discounted event tickets in a 2nd hand market. 
-
+Below are some personal projects that I've worked on in the past. More to come soon!
 
 ## Projects 
 
