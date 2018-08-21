@@ -13,3 +13,5 @@ who are predicted to churn. Naturally in subscription based services, these data
 don't cancel their subscription on any given month. 
 
 Let's see how this tool can help us achieve our goal!
+
+![](Learning_Curve_Plot.png)
