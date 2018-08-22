@@ -16,4 +16,28 @@ Let's see how this tool can help us achieve our goal!
 
 Check out the [Jupyter Notebook](https://github.com/DataBeast03/DataBeast/blob/master/ML_Tool/ML_Tool.ipynb)
 
+```python
+
+# create model
+rfc = RandomForestClassifier(n_estimators=100, 
+                             criterion='entropy', 
+                             n_jobs=-1)
+# initialize ml tool 
+cv_rfc = cross_validation(rfc, 
+                      X_churn, 
+                      Y_churn, 
+                      average='binary',
+                      init_chunk_size=100, 
+                      chunk_spacings=100,
+                      n_splits=3)
+
+# call method for model training
+cv_rfc.train_for_learning_curve()
+
+# call method for ploting model results
+cv_rfc.plot_learning_curve(image_name="Learning_Curve_Plot_RF", save_image=True)
+
+```
+
+
 ![](Learning_Curve_Plot_RF.png)
