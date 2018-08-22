@@ -3,6 +3,8 @@ My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My indust
 
 Below are some personal projects that I've worked on in the past. More to come soon!
 
+**NOTE:** These projects are in chronological order, so new projects appear first and older projects appear towards the bottom. 
+
 ## Projects 
 
 ### Machine Learning Tool
