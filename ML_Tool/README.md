@@ -16,4 +16,4 @@ Let's see how this tool can help us achieve our goal!
 
 Check out the [Jupyter Notebook](https://github.com/DataBeast03/DataBeast/blob/master/ML_Tool/ML_Tool.ipynb)
 
-![](Learning_Curve_Plot.png)
+![](Learning_Curve_Plot_RF.png)
