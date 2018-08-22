@@ -5,8 +5,6 @@ Below are some personal projects that I've worked on in the past. More to come s
 
 ## Projects 
 
-----
-
 # Machine Learning Tool
 
 The focus of this tool is to make the machine learning model building and validation workflow very fast and easy. 
