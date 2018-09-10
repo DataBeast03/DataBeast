@@ -7,6 +7,23 @@ Below are some personal projects that I've worked on in the past. More to come s
 
 ## Projects 
 
+### Content Based Recommender for New York Times Articles 
+
+![](https://blog.gdeltproject.org/wp-content/uploads/2014-new-york-times-logo.png)
+
+In this notebook, I create a content based recommender for New York Times articles. This recommender is an example of a very simple data product. I follow the same proceedure outlined in this [Medium article](https://medium.com/data-lab/how-we-used-data-to-suggest-tags-for-your-story-a120076d0bb6#.4vu7uby9z).
+
+![](https://cdn-images-1.medium.com/max/1600/1*3BP9i12zmh99F4fyjUdi3w.png)
+
+
+However, we will not be recommending tags. Instead we'll be recommending new articles that a user should read based on the article that they are currently reading.
+
+Check out the [Jupyter Notebook](https://github.com/DataBeast03/DataBeast/blob/master/NYT_Recommender/Content_Based_Recommendations.ipynb)
+
+
+-----
+
+
 ### Machine Learning Tool
 
 The focus of this tool is to make the machine learning model building and validation workflow very fast and easy. 
