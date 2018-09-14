@@ -3,7 +3,7 @@ My name is Alexander. I am a Data Scientist based out of Berkeley, CA. My indust
 
 Below are some personal projects that I've worked on in the past. More to come soon!
 
-**NOTE:** These projects are in chronological order, so new projects appear first and older projects appear towards the bottom. 
+**NOTE:** These projects are in chronological order, so newer projects appear first and older projects appear towards the bottom. 
 
 ## Projects 
 
@@ -32,9 +32,9 @@ This is done by abstracting away all the cross validation and plotting functiona
 
 This class also allows us to train and score these models in parallel. 
 
-It also has built in learning curve plotting functionality to assess model perforamnce's.  
+It also has built in learning curve plotting functionality to assess model performance.   
 
-As a case study, we use a Cellular Service Provider data set were we are tasked with building a model that can identify users 
+As a case study, we use a Cellular Service Provider data set where we are tasked with building a model that can identify users 
 who are predicted to churn. Naturally in subscription based services, these data sets are unbalanced since most users 
 don't cancel their subscription on any given month. 
 
