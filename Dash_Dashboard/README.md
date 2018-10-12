@@ -2,7 +2,7 @@
 
 ![](http://www.kwhanalytics.com/wp-content/uploads/2018/01/kWh_share_logo.jpg)
 
-
+![](https://github.com/DataBeast03/DataBeast/blob/master/Dash_Dashboard/dashboard_screenshot.png)
 
 The **goal** is build a prototype analytical dashboard for solar energy consumers. 
 
