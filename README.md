@@ -31,6 +31,8 @@ Check out the [**DASH SCRIPT**](https://github.com/DataBeast03/DataBeast/blob/ma
 Check out the [**JUPYTER NOTEBOOK**](https://github.com/DataBeast03/DataBeast/blob/master/Dash_Dashboard/Dashboard.ipynb) where the models were built. 
 
 
+------
+
 ### Content Based Recommender for New York Times Articles 
 
 ![](https://blog.gdeltproject.org/wp-content/uploads/2014-new-york-times-logo.png)
