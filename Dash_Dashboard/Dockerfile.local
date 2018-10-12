@@ -1,0 +1,7 @@
+FROM amazon/aws-eb-python:3.4.2-onbuild-3.5.1
+
+# tell the port number the container should expose
+EXPOSE 5000
+
+# run the command
+CMD ["python", "./kwh_analytics.py"]
