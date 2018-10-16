@@ -1,4 +1,4 @@
-# Scalable Machine Learning Pipeline 
+# Dashboard: Scalable Machine Learning Pipeline 
 
 ![](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/pipeline_img.png)
 
