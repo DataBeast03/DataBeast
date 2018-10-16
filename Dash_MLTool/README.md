@@ -29,5 +29,7 @@ The limiting factor for thing performance boost being, of course, the run time o
 ------
 
 Check out the [**Live Dashboard Here**](http://54.215.234.117/)
+
 Check out the [**Dash Script**](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/ml_pipeline.py)
+
 Check out the Jupyter Notebook which benchmarks the performance of the model building tool. 
