@@ -24,7 +24,7 @@ Below are some personal projects that I've worked on in the past. More to come s
 ![](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/runtime_reg.png)
 
 This pipeline was tested on a 8 core laptop. The chart shows that speed increases are achieved as the number of cores increases. 
-The limiting factor for thing performance boost being, of course, the run time of a single model's trian time. 
+The limiting factor for the performance boost being, of course, the run time of a single model's trian time and the number of cores. 
 
 ----
 
