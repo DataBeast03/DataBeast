@@ -31,7 +31,7 @@ The limiting factor for the performance boost being, of course, the run time of 
 #### Technology
 
 - The front end was built using a Python library called [**Dash**](https://plot.ly/products/dash/)
-- The Scalable model building tool was built by me and can be found [**here**](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/ml_pipeline.py)
+- The Scalable model building tool was built by me and can be found [**here**](https://github.com/DataBeast03/DataBeast/blob/master/Dash_MLTool/cross_val_tool_with_PARALLEL.pyy)
 - The machine learning models are taken from [**Scikit-Learn**](http://scikit-learn.org/stable/)
 - The pipeline is being deployed on [**AWS EC2**](https://aws.amazon.com/ec2/) 
 
