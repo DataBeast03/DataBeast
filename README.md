@@ -2,7 +2,8 @@
 
 Below are some personal projects that I've worked on in the past. More to come soon!
 
-**NOTE:** These projects are in chronological order, so newer projects appear first and older projects appear towards the bottom. 
+NOTE:-
+These projects are in chronological order, so newer projects appear first and older projects appear towards the bottom. 
 
 # Projects
 
