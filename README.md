@@ -5,7 +5,7 @@ Below are some personal projects that I've worked on in the past. More to come s
 
 **NOTE:** These projects are in chronological order, so newer projects appear first and older projects appear towards the bottom. 
 
-# Projects
+# ML Based Projects
 
 ## Dashboard: Scalable Machine Learning Pipeline 
 
